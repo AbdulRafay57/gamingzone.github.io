@@ -1,3 +1,7 @@
+body
+{
+	overflow-x: hidden !important;
+}
 a
 {
 	text-decoration:none !important;
@@ -1079,12 +1083,7 @@ transition: 1s;
 	}
 		
 
-	@media only screen and (max-width: 1400px) {
-		body
-		{
-			overflow-x: hidden;
-		}
-	}
+	
 	@media only screen and (max-width: 960px) {
 		.login-btn{ display: none; 
 		}
