@@ -1,3 +1,7 @@
+body
+{
+	overflow-x: hidden !important;
+}
 a
 {
 	text-decoration:none !important;
@@ -622,7 +626,7 @@ a
 	color: white;
 	position: absolute;
     width: 100%;
-    bottom: 65px;
+    bottom: 28%;
 	}
 	.top-con h2
 	{
